@@ -3,7 +3,7 @@
     <navbar ref="navbar"></navbar>
     <section class="content">
       match_code页面
-
+      <input type="text" v-autoFocus>
     </section>
   </div>
 </template>
@@ -11,9 +11,15 @@
 <script>
   import navbar from '../../../components/navbar'
 
+  import mixintest from '../../../mixins/index'
+
+  import autoFocus from '../../../directives/autoFocus'
+
   export default {
     name:'match_code',
     components: { navbar },
+    mixins:[mixintest],
+    directives:{autoFocus},
     data(){
       return {
 
