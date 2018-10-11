@@ -1,4 +1,4 @@
-# vue_project
+# vue_project_template
 项目模板
 
 安装成功后如果报sass-loader的错，需要重新安装sass
