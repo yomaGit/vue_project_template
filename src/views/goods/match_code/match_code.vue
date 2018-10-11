@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  import navbar from '../../moudles/navbar'
+  import navbar from '../../../components/navbar'
 
   export default {
     name:'match_code',

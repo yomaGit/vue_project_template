@@ -51,5 +51,5 @@ export default {
 </script>
 
 <style lang="sass">
-  @import "../../css/moudles/navbar.scss"
+  @import "../css/components/navbar"
 </style>
