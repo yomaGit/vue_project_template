@@ -11,9 +11,9 @@
 <script>
   import navbar from '../../../components/navbar'
 
-  import mixintest from '../../../mixins/index'
+  import mixintest from '../../../../mixins/index'
 
-  import autoFocus from '../../../directives/autoFocus'
+  import autoFocus from '../../../../directives/autoFocus'
 
   export default {
     name:'match_code',
@@ -58,5 +58,5 @@
 </script>
 
 <style lang="sass">
-  @import "../../../css/goods/match_code/match_code"
+  @import "../../../../css/goods/match_code/match_code"
 </style>

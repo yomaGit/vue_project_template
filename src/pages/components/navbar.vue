@@ -51,5 +51,5 @@ export default {
 </script>
 
 <style lang="sass">
-  @import "../css/components/navbar"
+  @import "../../css/components/navbar"
 </style>
