@@ -21,7 +21,7 @@
     "http-proxy-middleware": "^0.18.0",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "preload-webpack-plugin": "^2.3.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
